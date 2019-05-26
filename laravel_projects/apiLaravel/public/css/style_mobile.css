@@ -1,0 +1,7 @@
+
+@media (max-width: 768px) {
+	.navbar .navbar-brand img {
+	    max-width: 116px;
+	    margin: -6% 0% 4% 0;
+	}
+}
